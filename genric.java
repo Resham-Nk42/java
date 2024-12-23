@@ -16,7 +16,7 @@ System.out.println("Type f T is"+ob.getClass().getName());
 }
 }
 
-class GenDemo{
+class Genric{
 public static void main(String args[])
 {
 Gen<Integer>iob;
